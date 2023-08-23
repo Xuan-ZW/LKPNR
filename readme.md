@@ -20,8 +20,12 @@ bash download_extract_MIND.sh.
 
 
 
-# 3 model training
+# 3. model training
 python  main.py --news_encoder=MHSA --user_encoder=MHSA 
+
+# 4. Ohters
+The necessary files for running the program can be downloaded from https://pan.baidu.com/s/13AVXSWxIuXI14UgKjaSpbg?pwd=siuf
+
 
 
 
